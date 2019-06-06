@@ -21,6 +21,7 @@ Basic measures to keep your windows phone safe:
 
 Sources: 
 
+
 https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/331858/End_User_Devices_Security_Guidance_-_Windows_Phone_8.pdf
 
  Windows Phone 8.1 Security Overview by Microsoft : https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=5&cad=rja&uact=8&ved=2ahUKEwj039nhrdTiAhUoxosKHeqwAMgQFjAEegQIARAC&url=https%3A%2F%2Fdownload.microsoft.com%2Fdownload%2Fb%2F9%2Fa%2Fb9a00269-28d5-4aca-9e8e-e2e722b35a7d%2Fwindows-phone-8-1-security-overview.pdf&usg=AOvVaw1OKKZOpHGzYw7KI4iygD6D
