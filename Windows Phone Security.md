@@ -19,6 +19,12 @@ Basic measures to keep your windows phone safe:
 - Contacts, no control over this. But Microsoft before approving any app they check this and make sure only apps that uses contacts in the right way are approved
 
 
+There are some people who still use this phone (Including one of the lecturer in TalTech who taught me last semester). The number is not big but this small percentage of population needs to keep getting supported when Microsoft itself doesn't anymore.
+
+The reason why this article exists is to help individuals who still use Windows Phone because of their preference (like my Grandma apparently) who uses it because of a particular brand and only for basic phone functionality. There are also lacks of information about windows phone security in the internet due to their market share which is functionally doesn't exist anymore (0.24% source: http://gs.statcounter.com/os-market-share/mobile/worldwide). Thus, it's important to bring a practical knowledge about to the end users who mostly don't have much knowledge about this OS but keep using it regardless of the fact that this phone wouldn't be secure anymore in the future.
+
+Small number of unprotected and unsupported users of this "peculiar" device shouldn't be a reason why this article shouldn't exist to help them until they finally give up with the device.
+
 Sources: 
 
 https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/331858/End_User_Devices_Security_Guidance_-_Windows_Phone_8.pdf
