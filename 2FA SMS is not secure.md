@@ -46,7 +46,6 @@ Sources:
 https://www.slashgear.com/sms-two-factor-authentication-is-unsafe-use-these-instead-27539168/
 
 
-
 Verification Code Forwarding Attack Short Paper
 
 https://www.slashgear.com/sms-two-factor-authentication-is-unsafe-use-these-instead-27539168/
