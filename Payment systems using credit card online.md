@@ -21,10 +21,13 @@ How to prevent credit card fraud in online transaction:
 
 - Compare the price online and on the regular market. If you found something that the price is unrealistically cheap compared to the real price, you should double (or triple) check it. 
 
-- If your bank provide it, try Virtual Credit Card (VCC) or buy a prepaid card that is temporary and you can set the limit / cap for it according to your preference. Thus, it will not affect your main credit card that you need to use for higher expenses transaction. We will talk about VCC later.
+- If your bank provide it, try Virtual Credit Card (VCC), gift card, or buy a prepaid card that is temporary and you can set the limit / cap for it according to your preference. Thus, it will not affect your main credit card that you need to use for higher expenses transaction. We will talk about VCC later.
 
 - Pay attention into your credit card transaction. Download your bank application that can send you notification for each transaction. You can also choose bank or credit card provider that enable extra security measures for credit card transaction such as two-factor-authentication through SMS for transaction that reach some amount of limit. (Verification through SMS is not the most secure way nowadays but having 2FAis better than nothing).
 
+
+
+Virtual Credit Card (Single use credit card)
   Virtual Card Payment as an alternative for digital payment. Virtual card payment is a single use "card" that is issued by bank's customer to use for a temporary online payment. Customer can ask the bank to issue a virtual credit card (VCC) and set an expiry date and limit of the card payment.Most of vendors who accept traditional credit card  will also accept VCC.
 
   method:
@@ -32,16 +35,24 @@ How to prevent credit card fraud in online transaction:
   - Use one VCC for particular payments and for particular websites. It can help you to manage your expanses also. 
   - Set the limit of the credit card so that if there was a data breach or the VCC numbers and data are leamed, it wouldn't make an astronomical bill on your credit card monthly bill.
 
+  Pros of VCC:
+
+  - Prevent over expanses because of credit card frauds
+  - help to manage expanses on credit card by dividing one card for certain transaction good or services
+  - You can easily create a limit
+  - Would't affect the main credit card that might has a much higher limit of transaction
+  - You won't need to deal with too many credit card physically
+  
   Cons:
 
-  - Payment that use subscription system would be interupted
+  - Payment that use subscription system would be interupted if the card expires
   - Available only for online transaction
   - Like having a lot of credit card, it could be a hasle if we don't know how to manage the VCC properly including overspending on stuffs online.
 
-  In Estonia SEB has provided virtual card, no physical card. When we order, we can limit our transaction up to 3500 Euro. You can apply if you're 18 years old or above and it is valid for 40 days.
+  In Estonia SEB provides virtual card, no physical card. When we order, we can limit our transaction up to 3500 Euro. You can apply if you're 18 years old or above and it is valid for 40 days.
 
   
-
+Prepaid Card
   Another alternative is to use prepaid card. Based on personal experience, it's really flexible and I believe the safest way if you don't want transaction to be tracked. 
 
   Pros: 
@@ -56,13 +67,9 @@ How to prevent credit card fraud in online transaction:
   Cons:
 
   - Requires extra fees to activate it (around $5 in 2017)
-
   - You can not reuse it. The amount in the card is what is paid upon the card purchase and top up option is not available.
-
   - Wasting too many plastics which is not good for the environment.
-
   - You can't withdraw the money from the ATM
-
   - Some cards won't work for a subscription services with recurring bill
 
     
